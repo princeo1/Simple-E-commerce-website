@@ -1,0 +1,35 @@
+
+nav{
+	margin:0px;
+
+}
+img{
+	margin:10px;
+}
+.logoh{
+	display:flex;
+	justify-content:center;
+	margin:0px;
+}
+.logohe{
+	display:flex;
+	
+	justify-content:center;
+}
+
+
+.hmod{
+	text-align:right;
+	font-family: 'Caveat', cursive;
+	color:red;
+	font-size:90px;
+}
+.cost{
+   background-color: red;
+}
+img {
+	transition: all 1s;
+}
+img:hover{
+	transform:scale(1.1);
+}
